@@ -1,0 +1,71 @@
+# 接口测试用例apiname: 金融
+-
+  feature: 热搜接口正常响应
+  story: 今日头条热搜
+  title: 1
+  request:
+    origin: https://www.coderutil.com
+    url: /api/resou/v1/toutiao
+    header:
+      access-key: 69c7a49f5a60ac2447cc2087347c4abe
+      secret-key: ede1b49708821e0b7bacaa3077db0dbd
+    method: get
+    param: None
+  validator:
+    equal:
+      code: 200
+    contain:
+      $data.1.rank: 1
+  extract:
+
+-
+  feature: 微博接口正常响应
+  story: 微博热搜
+  title: 2
+  request:
+    origin: https://www.coderutil.com
+    url: /api/resou/v1/weibo
+    header:
+      access-key: 69c7a49f5a60ac2447cc2087347c4abe
+      secret-key: ede1b49708821e0b7bacaa3077db0dbd
+    method: get
+    param: None
+  validator:
+    exclude:
+      code: 200
+  extract:
+
+-
+  feature: api get测试
+  story: jsonplaceholder请求返回
+  request:
+    origin: https://jsonplaceholder.typicode.com
+    url: /posts/1
+    header:
+      Content-type: application/json; charset=UTF-8
+#      secret-key: ede1b49708821e0b7bacaa3077db0dbd
+    method: get
+    param:
+  validator:
+    equal:
+      id: 1
+  extract:
+    - userId
+
+-
+  feature: api post测试
+  story: 变量获取测试
+  request:
+    origin: https://jsonplaceholder.typicode.com
+    url: /posts
+    header:
+      Content-type: application/json; charset=UTF-8
+#      secret-key: ede1b49708821e0b7bacaa3077db0dbd
+    method: post
+    param:
+      title: july
+      userId: ${userId}
+      id: 1
+  validator:
+    title: july
+  extract:

@@ -1,0 +1,16 @@
+-
+  feature: api get测试
+  story: jsonplaceholder请求返回
+  title: jsonplaceholder get
+  parametrize:
+    name-assertion: \data_storage\if_get_data.yml
+  request:
+    origin: https://jsonplaceholder.typicode.com
+    url: /posts/1
+    header:
+      Content-type: application/json; charset=UTF-8
+    method: get
+    param:
+  validator:
+    equal: $ddt{assertion}
+  extract:

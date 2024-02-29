@@ -1,0 +1,19 @@
+-
+  feature: api post测试
+  story: 单接口数据驱动
+  title: jsonplaceholder post接口
+  parametrize:
+    name-title-userId-assertion: \data_storage\ddt.yml
+  request:
+    origin: https://jsonplaceholder.typicode.com
+    url: /posts
+    header:
+      Content-type: application/json; charset=UTF-8
+    method: post
+    param:
+      title: $ddt{title}
+      userId: $ddt{userId}
+      id: 1
+  validator:
+    equal: $ddt{assertion}
+  extract:
