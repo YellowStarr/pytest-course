@@ -1,2 +1,1 @@
-# pytest-course
-集成接口和UI自动化框架。
+切换到master分支
