@@ -1,0 +1,8 @@
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:53]执行测试用例：api post测试,变量获取测试
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:53]发送请求，url：https://jsonplaceholder.typicode.com/posts, method: post, param: {'title': 'july', 'userId': '1', 'id': 1}
+DEBUG    urllib3.connectionpool:connectionpool.py:1005 Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:465 https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 51
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:54]接口响应内容: {"title": "july", "userId": "1", "id": 101}
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:54]解析验证点关键词：title
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:54]=============api post测试,变量获取测试执行结束==========
+INFO     root:myLog.py:76 [INFO 2024-03-07 12:51:54]清空中间变量
