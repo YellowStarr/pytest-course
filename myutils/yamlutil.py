@@ -43,7 +43,7 @@ class YamlUtil:
             temp_length = len(paramlist[row])
             if args_length != temp_length:
                 raise Exception("请补全数据")
-                return False
+
         return True
 
     def clear_yaml_temp(self):
@@ -71,7 +71,7 @@ class YamlUtil:
             path = "\\temp\\temp.yml"
         else:
             path = os.getcwd()+ "\\temp.yml"
-        MyLog.info("存储中间变量:"+ json.dumps(data))
+        MyLog.info("中间变量地址 {p}, 存储中间变量: {d}".format(p=path, d=json.dumps(data)))
         with open(path, mode='a', encoding='utf-8') as f:
             yaml.dump(data=data, stream=f,allow_unicode=True)
 
@@ -81,13 +81,15 @@ class YamlUtil:
         读取中间变量
         """
         if not os.path.exists(os.getcwd()+ "\\temp.yml"):
-            current_dir = os.getcwd()  # 获取当前工作目录
+            # current_dir = os.getcwd()  # 获取当前工作目录
             # parent_dir = os.path.dirname(current_dir)  # 获取当前工作目录的上级目录
             path =  "\\temp\\temp.yml"
         else:
             path = os.getcwd()+ "\\temp.yml"
+        MyLog.info("=========读取中间变量, 读取地址{p}==========".format(p=path))
         with open(path, mode='r', encoding='utf-8') as f:
             value = yaml.load(stream=f, Loader=yaml.FullLoader)
+        MyLog.info("=========读取中间变量, {v}==========".format(v=value))
         return value
 
     def _find_ymls(self):

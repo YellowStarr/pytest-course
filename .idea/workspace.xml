@@ -2,20 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdeb282c-94f1-4c13-887e-18f2b96fb48a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/587765a2b0744ab4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/c06845ade18e2a6e.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/149422648d78e446.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/6b644b91edac64a9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/1a84b407-427e-48df-aafb-29905f471e45-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/27f8321d-6f36-4a28-bbf0-42f43dcd6da1-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/444d85b9-1819-4473-96bb-0e0066b62dd4-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d030e39c-cb9b-44d1-9f75-e156368b6214-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ec33a106-dc81-48d2-a7ec-256008202600-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/f03c161d-ca63-498e-8be5-db47465fbb01-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/2d08cdefabb8bb9a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/3f981cd7ddf9f4b5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/866ff797adfec61f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/cd0a52873675b029.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/778abb88e8794d5e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/87af499588d6468d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/b6f2594f06283cd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/ec49d4ec12f31601.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0143700e-e997-4ec2-ae22-b55460ccc00e-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/02a1c838-aca7-4da0-922a-ac18d2046806-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0359bbfc-72bd-498f-abfb-38b50be31dcd-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/03bab860-5ab8-428f-b7d2-9dec88e7f05f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0436e6b7-2879-493a-a8cd-ddc884b5157d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0f2ab037-a8c0-475f-b5b8-74a3cd7b047e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/136ee1ca-df62-4414-a15d-e67eb7856852-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/15f58b9d-0b61-4371-8a9a-b5262d98a857-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/2117b907-1717-4d09-98c5-6998752df5cc-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/3d62c993-baf0-4e96-bec5-121f9ac00c49-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/40aaf471-1551-450f-80f6-5889ce9dd027-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/4852f873-ac59-4114-a21f-644c76ebf595-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/4c40f96a-5c17-45b5-8ecf-677c2d1ea9d4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/5ee6f98e-b012-4d73-b7e6-7b5cae09b1bc-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/6ef21329-1d93-4678-aad8-0d3fa8cbeb93-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/761e60c1-d02d-40e2-b648-7be58a038694-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/867755f8-dbc8-4713-8f25-5fac6bc69e40-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/8db694b0-cc2d-4404-bd0c-bfcc1a7bb08a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/8f5582bf-8695-4352-832e-61bfa72a68fe-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/90e7f731-11ec-4b27-b2d1-e0dbe55dba48-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/92679c00-45a3-4800-92d5-921c9e402aa5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/9ece281c-6131-4eee-9971-f914026c79ab-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/a49322e9-7e18-442e-800e-115b18acb6d5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/a708758d-28f2-47c6-856e-6b30e323a506-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/b3ba786d-0274-43f6-90c7-6f312fbe68df-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c0f06fb6-a037-4cb0-ab81-b0f104437049-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c277b859-2c26-4e07-ab5e-ac3c1932cba4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c2f02cf8-12e6-459d-bdc7-e5ff9d7a56e3-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c656e398-ade4-4b03-b302-ed631167ad84-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c78c2472-44bf-48f9-8276-b553735de5bb-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/c92a9bbf-bbeb-4a18-935c-a841e6be8aa5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/cca872e7-f3dd-424d-bb0c-6346eaba2396-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d057260d-7d53-4317-89fc-73391f8e8750-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d32618fc-6192-4bb3-920d-2764b8c4a4ec-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d86b0969-dff5-46fb-ba24-bfca456108d5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/e14f4c5b-f99c-4dba-b8e9-6c595139ed2b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/e2f7b630-c734-4622-8f5b-ef98308a52ca-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/e546def7-b3a7-4c7d-aca6-af72c0676588-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/eaa5e2d1-d33d-47b0-abf5-ce9acdfa7716-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ecb77fc3-9d9f-44f4-8fc0-1ac421344ed7-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/f84c303e-6651-43d6-8c43-04a30fdd4d81-container.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/log.log" afterPath="$PROJECT_DIR$/log/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytest.ini" afterPath="$PROJECT_DIR$/pytest.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/behaviors.csv" afterPath="$PROJECT_DIR$/reports/data/behaviors.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myutils/myRequests.py" afterPath="$PROJECT_DIR$/myutils/myRequests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myutils/yamlutil.py" afterPath="$PROJECT_DIR$/myutils/yamlutil.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/behaviors.json" afterPath="$PROJECT_DIR$/reports/data/behaviors.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/packages.json" afterPath="$PROJECT_DIR$/reports/data/packages.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/suites.csv" afterPath="$PROJECT_DIR$/reports/data/suites.csv" />
@@ -24,19 +63,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/export/influxDbData.txt" afterPath="$PROJECT_DIR$/reports/export/influxDbData.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/export/prometheusData.txt" afterPath="$PROJECT_DIR$/reports/export/prometheusData.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/duration-trend.json" afterPath="$PROJECT_DIR$/reports/history/duration-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/history-trend.json" afterPath="$PROJECT_DIR$/reports/history/history-trend.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/history.json" afterPath="$PROJECT_DIR$/reports/history/history.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/retry-trend.json" afterPath="$PROJECT_DIR$/reports/history/retry-trend.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/index.html" afterPath="$PROJECT_DIR$/reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/behaviors.json" afterPath="$PROJECT_DIR$/reports/widgets/behaviors.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/duration-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/duration-trend.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/duration.json" afterPath="$PROJECT_DIR$/reports/widgets/duration.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/history-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/history-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/retry-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/retry-trend.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/severity.json" afterPath="$PROJECT_DIR$/reports/widgets/severity.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/status-chart.json" afterPath="$PROJECT_DIR$/reports/widgets/status-chart.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/suites.json" afterPath="$PROJECT_DIR$/reports/widgets/suites.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/summary.json" afterPath="$PROJECT_DIR$/reports/widgets/summary.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testcase/api/case_data.yml" afterPath="$PROJECT_DIR$/testcase/api/case_data.yml" />
     </list>
     <ignored path="pytest-course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,7 +96,7 @@
     <SUITE FILE_PATH="coverage/pytest-course$singleApi_test.coverage" NAME="singleApi_test Coverage Results" MODIFIED="1706934236711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/pytest-course$Unittest_Testdemo_test_put_demo.coverage" NAME="Unittest Testdemo.test_put_demo Coverage Results" MODIFIED="1706680682185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
     <SUITE FILE_PATH="coverage/pytest-course$myDriver.coverage" NAME="myDriver Coverage Results" MODIFIED="1709105856462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webFactory" />
-    <SUITE FILE_PATH="coverage/pytest-course$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1709787107046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytest-course$run_case.coverage" NAME="run_case Coverage Results" MODIFIED="1709821479574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -73,59 +107,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myDriver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webFactory/myDriver.py">
+      <file leaf-file-name="case_data.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/api/case_data.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-              <folding>
-                <element signature="e#138#168#0" expanded="true" />
-                <element signature="e#344#746#0" expanded="false" />
-                <element signature="e#784#1264#0" expanded="false" />
-                <element signature="e#1300#1318#0" expanded="false" />
-                <element signature="e#1360#1420#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eastFactory.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webFactory/eastFactory.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#131#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_case.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pytest.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13922653">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="singleApi_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/singleApi/singleApi_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.5">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -134,48 +120,30 @@
       <file leaf-file-name="myRequests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myutils/myRequests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.571428">
-              <caret line="37" column="58" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="58" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+              <folding>
+                <element signature="e#129#166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/api/api_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.0">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="case_data.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/api/case_data.yml">
+      <file leaf-file-name="yamlutil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myutils/yamlutil.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+              <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ddt_test.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/singleApi/ddt_test.yml">
+      <file leaf-file-name="log.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log/log.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ddt.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/data_storage/ddt.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.37711865">
+              <caret line="67" column="37" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -214,8 +182,6 @@
         <option value="$PROJECT_DIR$/testcase/data_storage/ddt.yml" />
         <option value="$PROJECT_DIR$/testcase/ddt_test.yml" />
         <option value="$PROJECT_DIR$/testcase/case_data.yml" />
-        <option value="$PROJECT_DIR$/log/log.log" />
-        <option value="$PROJECT_DIR$/myutils/myRequests.py" />
         <option value="$PROJECT_DIR$/testcase/ref_api/api_test.py" />
         <option value="$PROJECT_DIR$/testcase/ref_api/case_data.yml" />
         <option value="$PROJECT_DIR$/myutils/ddt.py" />
@@ -223,12 +189,10 @@
         <option value="$PROJECT_DIR$/testcase/single_api/ddt_test.yml" />
         <option value="$PROJECT_DIR$/testcase/single_api/json_get_test.yml" />
         <option value="$PROJECT_DIR$/testcase/single_api/singleApi_test.py" />
-        <option value="$PROJECT_DIR$/myutils/yamlutil.py" />
         <option value="$PROJECT_DIR$/testcase/singleApi_test.py" />
         <option value="$PROJECT_DIR$/testcase/api_test.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/testcase/conftest.py" />
-        <option value="$PROJECT_DIR$/myutils/myAssertion.py" />
         <option value="$PROJECT_DIR$/myutils/myLog.py" />
         <option value="$PROJECT_DIR$/testcase/web/eastmoney.py" />
         <option value="$PROJECT_DIR$/testcase/web/eastmoneyTest.py" />
@@ -237,6 +201,11 @@
         <option value="$PROJECT_DIR$/testcase/web/eastmoney_test.py" />
         <option value="$PROJECT_DIR$/webFactory/eastFactory.py" />
         <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/myutils/myAssertion.py" />
+        <option value="$PROJECT_DIR$/myutils/yamlutil.py" />
+        <option value="$PROJECT_DIR$/myutils/myRequests.py" />
+        <option value="$PROJECT_DIR$/testcase/api/case_data.yml" />
+        <option value="$PROJECT_DIR$/log/log.log" />
       </list>
     </option>
   </component>
@@ -276,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -323,7 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="singleApi" />
+              <option name="myItemId" value="api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,11 +307,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testcase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
+              <option name="myItemId" value="temp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -369,13 +335,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="log" />
+              <option name="myItemId" value="myutils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -747,17 +712,17 @@
     <frame x="-8" y="1072" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12579957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07782516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4288703" sideWeight="0.33854166" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27345416" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24093817" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21436228" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06316917" sideWeight="0.6614583" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4330118" sideWeight="0.6614583" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -810,15 +775,16 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="96" />
+      <option name="time" value="101" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/AppData/.PyCharm50/system/python_stubs/311725238/builtins.py">
+    <entry file="file://$PROJECT_DIR$/testcase/data_storage/ddt.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5036" column="8" selection-start-line="5036" selection-start-column="8" selection-end-line="5036" selection-end-column="8" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -906,45 +872,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/software/Anaconda3/Lib/site-packages/_pytest/python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1791" column="0" selection-start-line="1791" selection-start-column="0" selection-end-line="1791" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/software/Anaconda3/Lib/site-packages/_pytest/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/software/Anaconda3/Lib/site-packages/_pytest/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="317" column="0" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_callers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1032,31 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/temp.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myutils/ddt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myutils/myAssertion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44309393">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myutils/yamlutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.025414364">
-          <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1071,13 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63646406">
           <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5068493">
-          <caret line="237" column="78" selection-start-line="237" selection-start-column="78" selection-end-line="237" selection-end-column="78" />
         </state>
       </provider>
     </entry>
@@ -1099,9 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding>
-            <element signature="e#119#132#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,7 +1010,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
           <folding>
-            <element signature="e#138#168#0" expanded="true" />
+            <element signature="e#138#168#0" expanded="false" />
             <element signature="e#344#746#0" expanded="false" />
             <element signature="e#784#1264#0" expanded="false" />
             <element signature="e#1300#1318#0" expanded="false" />
@@ -1119,20 +1019,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webFactory/eastFactory.py">
+    <entry file="file://$PROJECT_DIR$/testcase/singleApi/singleApi_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#131#171#0" expanded="true" />
-          </folding>
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
+        <state vertical-scroll-proportion="0.3480663">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webFactory/eastFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64972377">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/data_storage/ddt.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04640884">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1145,34 +1061,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/data_storage/ddt.yml">
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16243094">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myutils/myAssertion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13922653">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_callers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="27" />
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/singleApi/singleApi_test.py">
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.5">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myutils/myRequests.py">
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/pluggy/_hooks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.571428">
-          <caret line="37" column="58" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/_pytest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/Anaconda3/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/temp.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/api/api_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.47969544">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myutils/myRequests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+          <folding>
+            <element signature="e#129#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myutils/yamlutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -1180,15 +1154,15 @@
     <entry file="file://$PROJECT_DIR$/testcase/api/case_data.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
+    <entry file="file://$PROJECT_DIR$/log/log.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13922653">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.37711865">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="37" />
           <folding />
         </state>
       </provider>

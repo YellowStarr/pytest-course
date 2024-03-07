@@ -18,6 +18,7 @@
       $data.1.rank: 1
   extract:
 
+
 -
   feature: 微博接口正常响应
   story: 微博热搜
@@ -34,6 +35,7 @@
     exclude:
       code: 200
   extract:
+    keyword: $.data[0].keyword
 
 -
   feature: api get测试
@@ -50,7 +52,8 @@
     equal:
       id: 1
   extract:
-    - userId
+    - userId: $.userId
+    - title: $.title
 
 -
   feature: api post测试
@@ -64,7 +67,7 @@
     method: post
     param:
       title: july
-      userId: ${userId}
+      userId: ${keyword}
       id: 1
   validator:
     title: july

@@ -1,0 +1,10 @@
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:42]执行测试用例：api post测试,变量获取测试
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:42]=========读取中间变量, 读取地址\temp\temp.yml==========
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:42]=========读取中间变量, {'keyword': '全面提升新兴领域战略能力', 'title': 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit', 'userId': 1}==========
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:42]发送请求，url：https://jsonplaceholder.typicode.com/posts, method: post, param: {'title': 'july', 'userId': '全面提升新兴领域战略能力', 'id': 1}
+DEBUG    urllib3.connectionpool:connectionpool.py:1005 Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:465 https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 86
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:43]接口响应内容: {"title": "july", "userId": "全面提升新兴领域战略能力", "id": 101}
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:43]解析验证点关键词：title
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:43]=============api post测试,变量获取测试执行结束==========
+INFO     root:myLog.py:76 [INFO 2024-03-07 22:24:43]清空中间变量

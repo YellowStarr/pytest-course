@@ -11,6 +11,7 @@ from myutils.myLog import MyLog
 import requests
 import json
 import pytest
+import jsonpath
 
 class MyRequests:
     def __init__(self):
@@ -30,14 +31,18 @@ class MyRequests:
         res = requests.request(method, url, json=param, headers=header)
         target = res.json()
         MyLog.info("接口响应内容: "+ json.dumps(target, ensure_ascii=False))
-        # 检查是否需要提取中间变量
+        # 提取中间变量
         if extract:
-            param_ext = {}
-            if isinstance(extract, list):
-                for k in range(len(extract)):
-                    param_ext[extract[k]] = target[extract[k]]
-            elif isinstance(extract, str):
-                param_ext[extract] = target[extract]
+            param_ext = dict()
+            if isinstance(extract, dict):
+                for k,v in extract.items():
+                    param_ext[k] = jsonpath.jsonpath(target, v)[0]
+                MyLog.info("========提取到响应体内容 {f}, {v} =========".format(f=k, v=param_ext[k]))
+            elif isinstance(extract, list):
+                for i in range(len(extract)):
+                    for k,v in extract[i].items():
+                        param_ext[k] = jsonpath.jsonpath(target, v)[0]
+                    MyLog.info("========提取到响应体内容 {f}, {v} =========".format(f=k, v=param_ext[k]))
             YamlUtil().write_temp_yaml(param_ext)
 
         # 验证点
