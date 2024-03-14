@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"b247d4b33185022adf755476a14321c6","name":"关联接口测试","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
+{"total":2,"items":[{"uid":"3a1d4582dcc139ec5bb332042568fc52","name":"测试数据驱动","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"36d5c9461dbb85a2df026a6d83ed6c5e","name":"jsonPlacehold","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

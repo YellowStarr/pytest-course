@@ -1,0 +1,8 @@
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:49]执行测试用例：api post测试,单接口数据驱动
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:49]发送请求，url：https://jsonplaceholder.typicode.com/posts, method: post, param: None
+DEBUG    urllib3.connectionpool:connectionpool.py:1005 Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:465 https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 15
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:50]接口响应内容: {"id": 101}
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:50]解析验证点关键词：equal
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:50]测试用例执行结果: False
+INFO     root:myLog.py:76 [INFO 2024-03-14 12:51:50]=============api post测试,单接口数据驱动执行结束==========

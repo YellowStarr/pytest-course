@@ -78,7 +78,7 @@ class MyDriver:
             self.close_Chrome()
             sys.exit()
         try:
-            elements = self.driver.find_elements(by=method, value=value)
+            elements = self.driver.find_elements_by_xpath( value=value)
             return elements
         except exceptions.NoSuchElementException:
             MyLog.warning("未找到指定元素by: {by}, value: {value}".format(by=method, value=value))

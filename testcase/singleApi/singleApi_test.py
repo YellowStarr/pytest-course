@@ -12,9 +12,10 @@ import allure
 from myutils import ddt
 
 class Test_Single:
-    @allure.feature("单接口数据驱动")
+    @allure.feature("jsonPlacehold")
+    @allure.title("{story}")
     @pytest.mark.parametrize("url, header, method, param, expect, extract, feature, story",ddt.read_testcase("json_get_test.yml"))
-    def test_single_api_demo(self, url, header, method, param, expect,extract, feature, story ,cleanup):
+    def test_json_get_test_demo(self, url, header, method, param, expect,extract, feature, story ,cleanup):
 
         MyRequests().send_requests(method, url,
                                    header=header,
@@ -23,4 +24,18 @@ class Test_Single:
                                    extract = extract,
                                    feature = feature,
                                    story = story)
+
+    @allure.feature("测试数据驱动")
+    @allure.title("{story}")
+    @pytest.mark.parametrize("url, header, method, param, expect, extract, feature, story",ddt.read_testcase("ddt_test.yml"))
+    def test_ddt_test_demo(self, url, header, method, param, expect,extract, feature, story ,cleanup):
+
+        MyRequests().send_requests(method, url,
+                                   header=header,
+                                   param = param,
+                                   expect = expect,
+                                   extract = extract,
+                                   feature = feature,
+                                   story = story)
+
 
