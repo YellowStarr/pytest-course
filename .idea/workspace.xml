@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdeb282c-94f1-4c13-887e-18f2b96fb48a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webFactory/findtxt.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/688c352fd1f98e88.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/984e3c080b3f68ff.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/c0b7e9ce282bab41.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/attachments/f25faf7430737382.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/4d12b1f70aa52c00.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/5d66ad5b10a15249.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/b25f552784c97bc8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/data/test-cases/d2845c5f9e698b0b.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0327e878-07e2-49ae-a03f-5849a17028de-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/09c57f3a-ad8c-4af9-95b6-49f7488bcad7-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/0f627327-53ae-436f-a89f-b1dcb7e92fb9-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/15b8294c-82e4-4078-b601-6d5a0eb349d5-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/1ff3b25a-4347-4e74-8b2a-d78decc11b24-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/29436962-0dd5-4e23-bfb2-f25489c3d3a3-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/2e97e98f-4c96-44d3-91af-caf7ad0d9cb7-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/36e956cd-2f90-4309-8248-586499b8b02a-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/3c1ef61b-347c-49d0-9d9e-afc30213d580-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/3d247680-a13c-44ff-a659-6fcebd33c278-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/41201322-88cf-4128-8830-83f3b68023a2-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/493f5937-4976-4569-bbf7-9e8d51b1464d-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/58297cb4-1acd-41ad-8897-93d211e70870-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/759db2e5-c154-4d95-b04b-48affad46266-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/75f1ce97-8a34-4af7-8343-9ca1d4c4423f-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/783c53bd-a894-4c81-94c8-7ac33e78f8c0-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/7aa97525-f873-4320-b084-b01fdf3e2bcf-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/8174a30e-913c-4306-b2f8-6095d48b936c-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/88812816-ff3b-4798-b7c7-f76130e2759c-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/89fa5cf5-1d77-436e-b357-60f19a999ef5-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/952730b9-1a84-447f-8560-2f4a3aaa16d0-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/956b562d-3be5-4b85-b8c7-4b482bd306a4-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/9fa721c8-68b4-4337-bc8c-13a34c0ecfcc-attachment.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/a214a794-695d-4597-be44-930ca94fe34f-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/a3a2bb1b-0b82-4bca-952d-99988f9b7041-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/a3e14dc5-dc54-4059-8ddf-dd6e39cd943a-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/aae69d92-92af-425c-8fed-6f257570f215-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/bfd011a8-a329-4205-8d61-af67b8056f69-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ca9fd39d-0fad-422d-bc8d-fb5445e19019-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ccff31ab-f807-4741-bf92-1323b4847c0a-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/cec26f65-ea70-48db-b07f-91a8db33c62f-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/cf5f83c5-972f-4546-a3f9-cded4ab405b3-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d2125677-ba3b-4615-b5dd-5458f7bf8612-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d7ed1cb7-f809-4b70-aff4-800786f905b1-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/d8826486-49e3-4cd7-91dc-443160d8cfb3-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/e113bb1e-5d69-4115-994e-691b4d1e547f-result.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/e521cd88-c74d-44fd-be89-f926ee2f1377-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ea56dd06-5507-457c-88a6-a23de6a06a95-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/ea90b09b-5d85-42d9-bf7d-d5a0f7c5ab80-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/eb122814-1aa5-4bf9-b701-37e9efc8d5b3-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temps/eef0868d-196d-49c2-96c9-d903166c3dd3-container.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微信截图_20240307125632.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/log.log" afterPath="$PROJECT_DIR$/log/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytest.ini" afterPath="$PROJECT_DIR$/pytest.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/behaviors.csv" afterPath="$PROJECT_DIR$/reports/data/behaviors.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/behaviors.json" afterPath="$PROJECT_DIR$/reports/data/behaviors.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/packages.json" afterPath="$PROJECT_DIR$/reports/data/packages.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/suites.csv" afterPath="$PROJECT_DIR$/reports/data/suites.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/suites.json" afterPath="$PROJECT_DIR$/reports/data/suites.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/data/timeline.json" afterPath="$PROJECT_DIR$/reports/data/timeline.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/export/influxDbData.txt" afterPath="$PROJECT_DIR$/reports/export/influxDbData.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/export/prometheusData.txt" afterPath="$PROJECT_DIR$/reports/export/prometheusData.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/duration-trend.json" afterPath="$PROJECT_DIR$/reports/history/duration-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/history-trend.json" afterPath="$PROJECT_DIR$/reports/history/history-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/history.json" afterPath="$PROJECT_DIR$/reports/history/history.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/history/retry-trend.json" afterPath="$PROJECT_DIR$/reports/history/retry-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/index.html" afterPath="$PROJECT_DIR$/reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/behaviors.json" afterPath="$PROJECT_DIR$/reports/widgets/behaviors.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/duration-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/duration-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/duration.json" afterPath="$PROJECT_DIR$/reports/widgets/duration.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/history-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/history-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/retry-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/retry-trend.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/severity.json" afterPath="$PROJECT_DIR$/reports/widgets/severity.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/status-chart.json" afterPath="$PROJECT_DIR$/reports/widgets/status-chart.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/suites.json" afterPath="$PROJECT_DIR$/reports/widgets/suites.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/widgets/summary.json" afterPath="$PROJECT_DIR$/reports/widgets/summary.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testcase/singleApi/singleApi_test.py" afterPath="$PROJECT_DIR$/testcase/singleApi/singleApi_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webFactory/myDriver.py" afterPath="$PROJECT_DIR$/webFactory/myDriver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReadMe.md" afterPath="$PROJECT_DIR$/ReadMe.md" />
     </list>
     <ignored path="pytest-course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -138,14 +60,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ddt.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ddt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myutils/ddt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32190266">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#120#131#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -210,6 +142,7 @@
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/testcase/singleApi/singleApi_test.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -654,9 +587,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08742005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08742005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4288703" sideWeight="0.33854166" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -962,13 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webFactory/第一序列">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2975206">
-          <caret line="65686" column="6" selection-start-line="65686" selection-start-column="6" selection-end-line="65686" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webFactory/findtxt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6460177">
@@ -1089,21 +1015,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myutils/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#120#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myutils/ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32190266">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#120#131#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
